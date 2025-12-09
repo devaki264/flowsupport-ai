@@ -22,7 +22,7 @@ Agent asks for device context only when genuinely necessary for installation/tro
 ### Requirements Check Before Troubleshooting
 For installation queries, agent verifies system requirements FIRST instead of jumping into debugging:
 
-![Mac Installation Check](Screenshot%202025-12-09_110404.png)
+![Mac Installation Check](screenshots/Screenshot%202025-12-09%20110404.png)
 
 **What's happening:** User specified "Mac". Agent immediately lists minimum requirements (macOS 12.0+, 500MB space, microphone) and asks user to verify before providing troubleshooting steps. Saves time if user has incompatible OS version.
 
@@ -31,7 +31,7 @@ For installation queries, agent verifies system requirements FIRST instead of ju
 ### Intelligent Escalation with Full Context
 Sensitive issues (billing, privacy, account deletion) are instantly routed to the right team with complete context:
 
-![Intelligent Escalation](Screenshot%202025-12-09_110509.png)
+![Intelligent Escalation](screenshots/Screenshot%202025-12-09%20110509.png)
 
 **What's happening:** User requests refund. Agent detects "refund" trigger, classifies as billing dispute, routes to billing team with HIGH priority, and provides full context (20.3% relevance = low confidence, retrieved docs shown for transparency). TAMs never touch this - billing team gets it immediately with all the context they need.
 
@@ -584,6 +584,7 @@ But more importantly, it shows **how I think**:
 ---
 
 *Status: Demo complete ✅ | Active development 🚧 | Workflow automation validated 💯*
+
 
 
 
