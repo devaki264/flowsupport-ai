@@ -13,7 +13,7 @@
 ### Smart Clarification - Only When Needed
 Agent asks for device context only when genuinely necessary for installation/troubleshooting:
 
-![Smart Clarification](Screenshot%202025-12-09_110239.png)
+![Smart Clarification](screenshots/Screenshot%202025-12-09_110239.png)
 
 **What's happening:** User says "Flow won't install" without specifying device. Agent detects this is an installation problem that requires device-specific instructions, so it asks. Won't ask for billing questions, features, or other queries where device doesn't matter.
 
@@ -584,4 +584,5 @@ But more importantly, it shows **how I think**:
 ---
 
 *Status: Demo complete ✅ | Active development 🚧 | Workflow automation validated 💯*
+
 
