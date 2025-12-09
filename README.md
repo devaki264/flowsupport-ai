@@ -48,7 +48,7 @@ But the interesting part isn't *what* I built—it's *how* I built it and *what 
 
 **My Solution:** Context-aware clarification that only triggers when the agent genuinely needs device info to help.
 
-![Smart Clarification](screenshots/Screenshot_2025-12-09_110239.png)
+![Smart Clarification](flowsupport-ai/Screenshot_2025-12-09_110239.png)
 
 **What's Happening:**
 - User says "Flow won't install" (no device specified)
@@ -58,3 +58,4 @@ But the interesting part isn't *what* I built—it's *how* I built it and *what 
 
 **Code Logic:**
 ```python
+
