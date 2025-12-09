@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Environment
+.env
+
+# ChromaDB
+chroma_db/
+
+# Large files
+data/raw/*.pdf
