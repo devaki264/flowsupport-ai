@@ -555,13 +555,11 @@ I'd love to discuss:
 - Ideas for TAM productivity tools
 - Strategies for knowledge gap detection
 
-**Dev**  
-Business Analytics Student @ Cal Poly SLO  
-ECE Background @ VIT
-
-📧 [Your Email]  
-💼 [LinkedIn]  
-🌐 [Portfolio]
+**Devakinandan Palla**  
+Business Analytics Student @ Cal Poly SLO (202-25) 
+ECE Background @ VIT (2019-23)
+Customer Success Manager @ Dennis Codd (2022-2024)
+📧 [devakinandanpp@gmail.com]
 
 ---
 
@@ -586,3 +584,4 @@ But more importantly, it shows **how I think**:
 ---
 
 *Status: Demo complete ✅ | Active development 🚧 | Workflow automation validated 💯*
+
