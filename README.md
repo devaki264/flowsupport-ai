@@ -3,7 +3,9 @@
 > AI-powered support system that handles tier-1 queries autonomously while intelligently routing complex issues to the right team with full context.
 
 **Built by:** Dev | **For:** Wispr Flow CS AI Agent Engineer Role  
-**Status:** 🚧 **Active Development** - Demo functional, production optimization in progress  
+**Status:** 🚧 **Active Development** - Demo functional, production optimization in progress.
+
+**Note:** For a much impressive, Customer Success AI Agent thayt I built a week after this, please refer https://github.com/devaki264/flowsupportai_2.0
 **Tech Stack:** Gemini 2.0 Flash, ChromaDB, Sentence Transformers, Pydantic, Streamlit
 
 ---
@@ -581,6 +583,7 @@ But more importantly, it shows **how I think**:
 ---
 
 *Status: Demo complete ✅ | Active development 🚧 | Workflow automation validated 💯*
+
 
 
 
